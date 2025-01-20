@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Camiseta básica",
+      "description": "Camiseta de algodón 100% con diseño clásico y cómodo.",
+      "price": 15.99
+    },
+    {
+      "title": "Auriculares inalámbricos",
+      "description": "Auriculares Bluetooth con sonido envolvente y batería de larga duración.",
+      "price": 49.99
+    },
+    {
+      "title": "Botella térmica",
+      "description": "Botella de acero inoxidable que mantiene las bebidas calientes o frías durante horas.",
+      "price": 24.50
+    },
+    {
+      "title": "Mochila casual",
+      "description": "Mochila resistente al agua con múltiples compartimentos y diseño moderno.",
+      "price": 39.90
+    },
+    {
+      "title": "Reloj deportivo",
+      "description": "Reloj inteligente con monitor de actividad, frecuencia cardíaca y notificaciones.",
+      "price": 79.99
+    }
+  ]
+  
